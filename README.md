@@ -2,7 +2,7 @@
 
 Another extension integrates Python-powered NoSQLi scanning capability. Detection is based on distinct responses through the response. 
 
-## Advantages: further enhances UI log for the extension (displaying NoSQLi payloads only), includes editing and adding more test cases for payloads, and additional code refinement in the Error Message section.
+1. Advantages: further enhances UI log for the extension (displaying NoSQLi payloads only), includes editing and adding more test cases for payloads, and additional code refinement in the Error Message section.
 
 ### [DEMO](./video_demo/demo_NoEm_extension_final.mp4)
 
